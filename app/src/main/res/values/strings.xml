@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">21MatchSticks</string>
+    <string name="try_again">You cannot pick more than 4 matchsticks!</string>
+    <string name="instructions">
+        1) There are a total of 21 matchsticks.\n\n
+        2) Two players play the game and Player 1 gets to pick first.\n\n
+        3) Players pick the matchsticks, turn by turn.\n\n
+        4) Players must pick at least 1 matchstick in their turn, and cannot pick more than 4.\n\n
+        5) Whoever gets to pick the last matchstick, loses.
+    </string>
+    <string name="you_will_lose">
+        If you pick all of them, you will lose! \n
+        Leave the last one to win! :)
+    </string>
+    <string name="win1">Player1 has won</string>
+    <string name="win2">Player2 has won</string>
+    <string name="insufficient_matchsticks">
+        There are lesser matchsticks than what you want!
+    </string>
+    <string name="comp_win">
+        The computer has won! Try again by restarting from the home screen!
+    </string>
+    <string name="your_turn">
+        Computer has picked %1$d matchsticks.\n
+        Now it is your turn
+    </string>
+    <string name="player2chance">Player 1 has picked %1$d matchsticks.\n Now it is Player 2\'s turn</string>
+    <string name="player1chance">Player 2 has picked %1$d matchsticks.\n Now it is Player 1\'s turn</string>
+    <string name="empty">How many matchsticks do you want?</string>
+</resources>
