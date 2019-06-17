@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">21MatchSticks</string>
-    <string name="try_again">You cannot pick more than 4 matchsticks!</string>
+    <string name="try_again">You cannot pick more than 4 matchsticks! But you must pick at least one</string>
     <string name="instructions">
         1) There are a total of 21 matchsticks.\n\n
         2) Two players play the game and Player 1 gets to pick first.\n\n
